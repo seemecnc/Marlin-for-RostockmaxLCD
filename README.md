@@ -4,6 +4,8 @@ THIS IS BASED ON RELEASE CANDIDATE 2 FOR MARLIN 1.0.0
 
 by seemecnc
 
+visit seemecnc.com for more informaiton under the SUPPORT menu tab
+
 UPDATES:
 
 4/9/2013		Added define for 20 tooth GT2 pulleys
